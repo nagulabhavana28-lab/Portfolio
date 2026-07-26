@@ -48,6 +48,24 @@ Passionate about transforming raw data into meaningful insights through data ana
 - Jupyter Notebook
 
 ---
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nagulabhavana28&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagulabhavana28&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nagulabhavana28&theme=tokyonight&hide_border=true"/>
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nagulabhavana28&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
 
 ## 📂 Featured Projects
 
