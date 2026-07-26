@@ -15,33 +15,33 @@ Passionate about transforming raw data into meaningful insights through data ana
 ## 👩‍💻 About Me
 
 - 🎓 B.Tech in Information Technology
-- 📊 Aspiring Data Analyst
+- 📊 Aspiring Data Analyst passionate about solving business problems using data
 - 🌱 Currently learning **Advanced SQL, Power BI, Python, Statistics, and Data Visualization**
-- 💡 Interested in Data Analytics, Business Intelligence, and AI-powered solutions
-- 🎯 Goal: Become a Data Analyst and build impactful data-driven solutions
-
+- 🤖 Exploring AI-powered data analytics solutions using Google Gemini API
+- 📈 Interested in Data Analytics, Business Intelligence, and Machine Learning
+- 🎯 Goal: Secure a Data Analyst role and build impactful data-driven solutions
 ---
 
 ## 🛠️ Tech Stack
 
-### Programming
+### 💻 Languages
 - Python
-
-### Databases
 - SQL
-- MySQL
 
-### Data Analysis
+### 📊 Data Analysis
 - Pandas
 - NumPy
 - SciPy
 
-### Visualization
-- Matplotlib
+### 📈 Data Visualization
 - Power BI
+- Matplotlib
 - Excel
 
-### Tools
+### 🗄️ Databases
+- MySQL
+
+### ⚙️ Tools
 - Git
 - GitHub
 - VS Code
@@ -74,6 +74,10 @@ Passionate about transforming raw data into meaningful insights through data ana
   
 
 ---
+
+---
+
+> **"Turning data into insights and insights into impactful decisions."** 📊
 
 ## 📫 Connect with Me
 
