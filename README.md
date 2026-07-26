@@ -61,7 +61,12 @@ Passionate about transforming raw data into meaningful insights through data ana
 - Power BI Dashboarding
 - Python for Data Analytics
 - Statistics
+- Data Science
 - Machine Learning Fundamentals
+- Deep Learning
+- Generative AI
+- Agentic AI
+  
 
 ---
 
