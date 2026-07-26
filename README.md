@@ -52,8 +52,13 @@ Passionate about transforming raw data into meaningful insights through data ana
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nagulabhavana28-lab&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nagulabhavana28-lab&layout=compact&theme=tokyonight&hide_border=true" />
+  
+## 💻 Most Used Languages
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nagulabhavana28-lab&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 </p>
+
 
 ## 🔥 Contribution Streak
 
@@ -77,6 +82,7 @@ Python • Pandas • NumPy • SciPy • Matplotlib • Google Gemini AI
 - 📈 Identified top complaint keywords through frequency analysis
 - 🤖 Generated AI-powered personalized customer response emails using Google Gemini AI
 - 📄 Documented the project with a professional README
+
 
 **🔗 Repository**
 
