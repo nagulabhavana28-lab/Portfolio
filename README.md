@@ -24,30 +24,23 @@ Passionate about transforming raw data into meaningful insights through data ana
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
-- Python
-- SQL
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
+</p>
 
-### 📊 Data Analysis
-- Pandas
-- NumPy
-- SciPy
-
-### 📈 Data Visualization
-- Power BI
-- Matplotlib
-- Excel
-
-### 🗄️ Databases
-- MySQL
-
-### ⚙️ Tools
-- Git
-- GitHub
-- VS Code
-- Jupyter Notebook
-
+<p align="left">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</p>
 ---
+
+
 ## 📊 GitHub Statistics
 
 <p align="center">
@@ -66,13 +59,26 @@ Passionate about transforming raw data into meaningful insights through data ana
   <img src="https://streak-stats.demolab.com?user=nagulabhavana28-lab&theme=tokyonight&hide_border=true"/>
 </p>
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
-### 🌟 Customer Feedback Analysis using Python & Google Gemini AI
+### 🛍️ Retail Sales & Customer Analytics
+- Python
+- SQL
+- Power BI
+- RFM Segmentation
+- Sales Forecasting
 
-**🛠️ Tech Stack**
+🔗 https://github.com/nagulabhavana28-lab/Retail-sales-customer-analytics
 
-Python • Pandas • NumPy • SciPy • Matplotlib • Google Gemini AI
+---
+
+### 💄 Customer Feedback Analysis
+- Python
+- Pandas
+- Google Gemini AI
+- NLP
+
+🔗 https://github.com/nagulabhavana28-lab/Customer-Feedback-Analysis
 
 **📌 Key Features**
 
@@ -87,6 +93,8 @@ Python • Pandas • NumPy • SciPy • Matplotlib • Google Gemini AI
 **🔗 Repository**
 
 [Customer Feedback Analysis](https://github.com/nagulabhavana28-lab/<Customer-feedback-analysis>)
+
+[Retail-sales-customer-analytics](https://github.com/nagulabhavana28-lab/Retail-sales-customer-analytics>)
 
 ## 📈 Currently Learning
 
