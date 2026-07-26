@@ -1,11 +1,16 @@
 <h1 align="center">Hi 👋, I'm Bhavana Nagula</h1>
-<h3 align="center">Aspiring Data Analyst from Hyderabad, India 🇮🇳</h3>
+
+<h3 align="center">
+Aspiring Data Analyst | Python • SQL • Power BI • Excel
+</h3>
 
 <p align="center">
 Passionate about transforming raw data into meaningful insights through data analysis, visualization, and storytelling.
 </p>
 
----
+<p align="center">
+📍 Hyderabad, India 🇮🇳
+</p>
 
 ## 👩‍💻 About Me
 
