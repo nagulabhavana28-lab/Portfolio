@@ -51,32 +51,36 @@ Passionate about transforming raw data into meaningful insights through data ana
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nagulabhavana28&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagulabhavana28&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nagulabhavana28-lab&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nagulabhavana28-lab&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=nagulabhavana28&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=nagulabhavana28-lab&theme=tokyonight&hide_border=true"/>
 </p>
 
-## 🏆 GitHub Trophies
+## 🚀 Featured Project
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nagulabhavana28&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
+### 🌟 Customer Feedback Analysis using Python & Google Gemini AI
 
-## 📂 Featured Projects
+**🛠️ Tech Stack**
 
-### ⭐ Customer Feedback Analysis
-- Cleaned and analyzed customer reviews using Python.
-- Performed Exploratory Data Analysis (EDA).
-- Identified complaint keywords.
-- Built rule-based complaint classification.
-- Generated personalized customer response emails using Google Gemini API.
+Python • Pandas • NumPy • SciPy • Matplotlib • Google Gemini AI
 
----
+**📌 Key Features**
+
+- 🧹 Cleaned and preprocessed customer review datasets
+- 📊 Performed Exploratory Data Analysis (EDA)
+- 🔍 Classified critical reviews using rule-based filtering
+- 📈 Identified top complaint keywords through frequency analysis
+- 🤖 Generated AI-powered personalized customer response emails using Google Gemini AI
+- 📄 Documented the project with a professional README
+
+**🔗 Repository**
+
+[Customer Feedback Analysis](https://github.com/nagulabhavana28-lab/<Customer-feedback-analysis>)
 
 ## 📈 Currently Learning
 
