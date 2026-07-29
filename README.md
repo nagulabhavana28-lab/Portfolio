@@ -1,124 +1,117 @@
 <h1 align="center">Hi 👋, I'm Bhavana Nagula</h1>
 
 <h3 align="center">
-Aspiring Data Analyst | Python • SQL • Power BI • Excel
+Aspiring Data Analyst | Python Developer | SQL Developer | Power BI Developer
 </h3>
 
-<p align="center">
-Passionate about transforming raw data into meaningful insights through data analysis, visualization, and storytelling.
-</p>
-
-<p align="center">
-📍 Hyderabad, India 🇮🇳
-</p>
-
-## 👩‍💻 About Me
-
-- 🎓 B.Tech in Information Technology
-- 📊 Aspiring Data Analyst passionate about solving business problems using data
-- 🌱 Currently learning **Advanced SQL, Power BI, Python, Statistics, and Data Visualization**
-- 🤖 Exploring AI-powered data analytics solutions using Google Gemini API
-- 📈 Interested in Data Analytics, Business Intelligence, and Machine Learning
-- 🎯 Goal: Secure a Data Analyst role and build impactful data-driven solutions
 ---
 
-## 🛠️ Tech Stack
+<h2>👩‍💻 About Me</h2>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
-</p>
+- 📊 Aspiring **Data Analyst** passionate about solving business problems using data.
+- 📈 Skilled in **Python, SQL, Power BI, Excel, Pandas, NumPy and Matplotlib**.
+- 🌱 Currently learning **Machine Learning** and **Azure Data Engineering**.
+- 🚀 Building end-to-end Data Analytics projects.
+- 💬 Ask me about **Python, SQL, Power BI, Excel, Data Analysis**
+- 📫 Reach me at **your_email@example.com**
+- 🌍 Hyderabad, India
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</p>
 ---
 
+<h2>🛠 Tech Stack</h2>
 
-## 📊 GitHub Statistics
+<div align="center">
+
+| Category | Technologies |
+|----------|--------------|
+| 💻 **Programming Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
+| 📊 **Data Visualization** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) |
+| 📚 **Libraries** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge) |
+| 🗄️ **Database** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
+| 🔧 **Version Control** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
+| 💻 **Development Environment** | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) |
+
+</div>
+---
+
+<h2>📊 Analytics Dashboard</h2>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nagulabhavana28-lab&show_icons=true&theme=tokyonight&hide_border=true" />
-  
-## 💻 Most Used Languages
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nagulabhavana28-lab&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=nagulabhavana28-lab&theme=github-dark&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagulabhavana28-lab&layout=compact&theme=github_dark&hide_border=true"/>
+
 </p>
 
-
-## 🔥 Contribution Streak
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=nagulabhavana28-lab&theme=tokyonight&hide_border=true"/>
+
+<img width="98%" src="https://github-profile-trophy.vercel.app/?username=nagulabhavana28-lab&theme=darkhub&margin-w=15&no-frame=true"/>
+
 </p>
 
-## 🚀 Featured Projects
+---
 
-### 🛍️ Retail Sales & Customer Analytics
+<h2>🚀 Featured Projects</h2>
+
+### 📌 Customer Feedback Analysis
+- Python
+- NLP
+- Google Gemini API
+- Sentiment Analysis
+
+---
+
+### 📌 Retail Sales Customer Analytics
 - Python
 - SQL
 - Power BI
-- RFM Segmentation
-- Sales Forecasting
-
-🔗 https://github.com/nagulabhavana28-lab/Retail-sales-customer-analytics
+- Business Intelligence
 
 ---
 
-### 💄 Customer Feedback Analysis
-- Python
-- Pandas
-- Google Gemini AI
-- NLP
-
-🔗 https://github.com/nagulabhavana28-lab/Customer-Feedback-Analysis
-
-**📌 Key Features**
-
-- 🧹 Cleaned and preprocessed customer review datasets
-- 📊 Performed Exploratory Data Analysis (EDA)
-- 🔍 Classified critical reviews using rule-based filtering
-- 📈 Identified top complaint keywords through frequency analysis
-- 🤖 Generated AI-powered personalized customer response emails using Google Gemini AI
-- 📄 Documented the project with a professional README
-
-
-**🔗 Repository**
-
-[Customer Feedback Analysis](https://github.com/nagulabhavana28-lab/<Customer-feedback-analysis>)
-
-[Retail-sales-customer-analytics](https://github.com/nagulabhavana28-lab/Retail-sales-customer-analytics>)
-
-## 📈 Currently Learning
-
-- Advanced SQL
-- Power BI Dashboarding
-- Python for Data Analytics
-- Statistics
-- Data Science
-- Machine Learning Fundamentals
-- Deep Learning
-- Generative AI
-- Agentic AI
-  
+### 📌 Invistico Airlines Dashboard *(Coming Soon)*
+- Power BI
+- DAX
+- Power Query
+- Dashboard Design
 
 ---
 
----
+<h2>📈 Contribution Graph</h2>
 
-> **"Turning data into insights and insights into impactful decisions."** 📊
-
-## 📫 Connect with Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/bhavananagula280203
+[![Bhavana's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nagulabhavana28-lab&theme=github-compact)](https://github.com/nagulabhavana28-lab)
 
 ---
+
+<h2>🐍 Contribution Snake</h2>
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/nagulabhavana28-lab/nagulabhavana28-lab/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+<h2>🤝 Connect With Me</h2>
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:your_email@example.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
 
 ⭐ Thanks for visiting my profile!
+
+</p>
