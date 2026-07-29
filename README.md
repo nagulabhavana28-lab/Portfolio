@@ -13,7 +13,7 @@ Aspiring Data Analyst | Python Developer | SQL Developer | Power BI Developer
 - 🌱 Currently learning **Machine Learning** and **Azure Data Engineering**.
 - 🚀 Building end-to-end Data Analytics projects.
 - 💬 Ask me about **Python, SQL, Power BI, Excel, Data Analysis**
-- 📫 Reach me at **your_email@example.com**
+- 📫 Reach me at **nagulabhavana28@gmail.com**
 - 🌍 Hyderabad, India
 
 ---
@@ -57,6 +57,9 @@ Aspiring Data Analyst | Python Developer | SQL Developer | Power BI Developer
 - Performed sentiment analysis and generated actionable insights from customer reviews.
 - Automated review classification to support business decision-making.
 
+🔗 **GitHub Repository:**  
+https://github.com/nagulabhavana28-lab/Customer-feedback-analysis
+
 ---
 
 <h3>📌 Retail Sales Customer Analytics</h3>
@@ -67,6 +70,10 @@ Aspiring Data Analyst | Python Developer | SQL Developer | Power BI Developer
 - Developed an interactive Power BI dashboard to visualize KPIs and business trends.
 - Delivered insights into customer segmentation, sales performance, and profitability.
 
+🔗 **GitHub Repository:**  
+https://github.com/nagulabhavana28-lab/Retail-sales-customer-analytics
+
+---
 ---
 
 ---
