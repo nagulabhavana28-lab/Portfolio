@@ -109,11 +109,11 @@ Aspiring Data Analyst | Python Developer | SQL Developer | Power BI Developer
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://www.linkedin.com/in/bhavana2802/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:your_email@example.com">
+<a href="mailto:nagulabhavana28@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
