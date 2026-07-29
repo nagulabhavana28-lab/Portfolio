@@ -37,17 +37,12 @@ Aspiring Data Analyst | Python Developer | SQL Developer | Power BI Developer
 <h2>📊 Analytics Dashboard</h2>
 
 <p align="center">
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=nagulabhavana28-lab&theme=github-dark&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagulabhavana28-lab&layout=compact&theme=github_dark&hide_border=true"/>
-
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=nagulabhavana28-lab&theme=github-dark&hide_border=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagulabhavana28-lab&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 <p align="center">
-
-<img width="98%" src="https://github-profile-trophy.vercel.app/?username=nagulabhavana28-lab&theme=darkhub&margin-w=15&no-frame=true"/>
-
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=nagulabhavana28-lab&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
@@ -77,13 +72,6 @@ Aspiring Data Analyst | Python Developer | SQL Developer | Power BI Developer
 - Dashboard Design
 
 ---
-
-<h2>📈 Contribution Graph</h2>
-
-[![Bhavana's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nagulabhavana28-lab&theme=github-compact)](https://github.com/nagulabhavana28-lab)
-
----
-
 <h2>🐍 Contribution Snake</h2>
 
 <p align="center">
