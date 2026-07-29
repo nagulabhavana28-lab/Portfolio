@@ -49,27 +49,25 @@ Aspiring Data Analyst | Python Developer | SQL Developer | Power BI Developer
 
 <h2>🚀 Featured Projects</h2>
 
-### 📌 Customer Feedback Analysis
-- Python
-- NLP
-- Google Gemini API
-- Sentiment Analysis
+<h3>📌 Customer Feedback Analysis</h3>
+
+**Tech Stack:** Python • NLP • Google Gemini API • Pandas
+
+- Built an AI-powered customer feedback analysis system using Google Gemini API.
+- Performed sentiment analysis and generated actionable insights from customer reviews.
+- Automated review classification to support business decision-making.
 
 ---
 
-### 📌 Retail Sales Customer Analytics
-- Python
-- SQL
-- Power BI
-- Business Intelligence
+<h3>📌 Retail Sales Customer Analytics</h3>
+
+**Tech Stack:** Python • SQL • Power BI • Pandas
+
+- Analyzed retail sales and customer behavior using Python and SQL.
+- Developed an interactive Power BI dashboard to visualize KPIs and business trends.
+- Delivered insights into customer segmentation, sales performance, and profitability.
 
 ---
-
-### 📌 Invistico Airlines Dashboard *(Coming Soon)*
-- Power BI
-- DAX
-- Power Query
-- Dashboard Design
 
 ---
 <h2>🐍 Contribution Snake</h2>
