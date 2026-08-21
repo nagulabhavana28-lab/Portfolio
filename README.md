@@ -4,6 +4,11 @@
 
 ### Data Analyst | Turning Data into Actionable Insights
 
+<p>
+📍 Hyderabad, India &nbsp; | &nbsp;
+📧 <a href="mailto:nagulabhavana28@gmail.com">nagulabhavana28@gmail.com</a>
+</p>
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=700&lines=Data+Analyst;Python+%7C+SQL+%7C+Excel+%7C+Power+BI;Turning+Data+into+Actionable+Insights;Always+Learning+%26+Building" alt="Typing SVG" />
 
 <p>
@@ -90,6 +95,7 @@ I'm currently strengthening my skills through a **Post Graduate Certification in
 ## 💼 Professional Experience
 
 ### Cognizant Technology Solutions
+
 **Process Executive | Feb 2025 – Mar 2026**
 
 - Supported Trust & Safety payment operations involving high-volume operational and transactional data.
@@ -195,7 +201,7 @@ I'm particularly interested in roles involving **data-driven decision-making, bu
 </a>
 
 <a href="mailto:nagulabhavana28@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-nagulabhavana28%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </p>
