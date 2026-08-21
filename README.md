@@ -1,100 +1,211 @@
-<h1 align="center">Hi 👋, I'm Bhavana Nagula</h1>
-
-<h3 align="center">
-Aspiring Data Analyst | Python Developer | SQL Developer | Power BI Developer
-</h3>
-
----
-
-<h2>👩‍💻 About Me</h2>
-
-- 📊 Aspiring **Data Analyst** passionate about solving business problems using data.
-- 📈 Skilled in **Python, SQL, Power BI, Excel, Pandas, NumPy and Matplotlib**.
-- 🌱 Currently learning **Machine Learning** and **Azure Data Engineering**.
-- 🚀 Building end-to-end Data Analytics projects.
-- 💬 Ask me about **Python, SQL, Power BI, Excel, Data Analysis**
-- 📫 Reach me at **nagulabhavana28@gmail.com**
-- 🌍 Hyderabad, India
-
----
-
-<h2>🛠 Tech Stack</h2>
-
 <div align="center">
 
-| Category | Technologies |
-|----------|--------------|
-| 💻 **Programming Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
-| 📊 **Data Visualization** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) |
-| 📚 **Libraries** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge) |
-| 🗄️ **Database** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
-| 🔧 **Version Control** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
-| 💻 **Development Environment** | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) |
+# 👋 Hi, I'm Bhavana Nagula
+
+### Data Analyst | Turning Data into Actionable Insights
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=700&lines=Data+Analyst;Python+%7C+SQL+%7C+Excel+%7C+Power+BI;Turning+Data+into+Actionable+Insights;Always+Learning+%26+Building" alt="Typing SVG" />
+
+<p>
+  <a href="https://www.linkedin.com/in/bhavana2802/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/nagulabhavana28-lab">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 </div>
+
 ---
 
-<h2>📊 Analytics Dashboard</h2>
+## 📌 About Me
 
-<p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=nagulabhavana28-lab&theme=github-dark&hide_border=true"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagulabhavana28-lab&layout=compact&theme=github_dark&hide_border=true"/>
+I'm a **Data Analyst** with professional experience in data validation, reporting, and operational data analysis.
+
+I enjoy working with data to identify patterns, solve business problems, and turn raw datasets into meaningful insights.
+
+I'm currently strengthening my skills through a **Post Graduate Certification in Data Science and Analytics from Imarticus Learning**, with a focus on staying current with evolving analytics and AI technologies.
+
+- 📍 Based in Hyderabad, India
+- 💼 1+ year of professional experience at Cognizant
+- 📊 Interested in Data Analytics & Data Science
+- 📚 Currently upskilling in Data Science & Analytics
+- 🎯 Looking for opportunities in Data Analytics, Business Analytics & Data Science
+
+---
+
+## 🚀 My Analytics Toolkit
+
+### 🐍 Programming & Data Analysis
+
+<p>
+<img src="https://img.shields.io/badge/Python-Data%20Analysis-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-Data%20Querying-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-<p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=nagulabhavana28-lab&theme=github-dark&hide_border=true"/>
+### 📊 Business Intelligence & Visualization
+
+<p>
+<img src="https://img.shields.io/badge/Power%20BI-Dashboards-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Excel-Analytics-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+</p>
+
+### 🔬 Python Libraries
+
+<p>
+<img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-Numerical%20Analysis-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-Visualization-11557C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SciPy-Scientific%20Computing-8CAAE6?style=for-the-badge" />
+</p>
+
+### 🗄️ Data & Analytics
+
+<p>
+<img src="https://img.shields.io/badge/ETL-Data%20Pipelines-6A1B9A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Data%20Cleaning-Quality-455A64?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Data%20Modeling-Analytics-00897B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/EDA-Exploratory%20Analysis-3949AB?style=for-the-badge" />
+</p>
+
+### 🤖 AI & Advanced Analytics
+
+<p>
+<img src="https://img.shields.io/badge/Generative%20AI-Exploration-8E44AD?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Forecasting-Time%20Series-FF7043?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Machine%20Learning-Analytics-1565C0?style=for-the-badge" />
+</p>
+
+### 🔧 Tools
+
+<p>
+<img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Repository%20Management-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
 
 ---
 
-<h2>🚀 Featured Projects</h2>
+## 💼 Professional Experience
 
-<h3>📌 Customer Feedback Analysis</h3>
+### Cognizant Technology Solutions
+**Process Executive | Feb 2025 – Mar 2026**
 
-**Tech Stack:** Python • NLP • Google Gemini API • Pandas
-
-- Built an AI-powered customer feedback analysis system using Google Gemini API.
-- Performed sentiment analysis and generated actionable insights from customer reviews.
-- Automated review classification to support business decision-making.
-
-🔗 **GitHub Repository:**  
-https://github.com/nagulabhavana28-lab/Customer-feedback-analysis
+- Supported Trust & Safety payment operations involving high-volume operational and transactional data.
+- Validated, cleaned, and reconciled transactional records to maintain data accuracy.
+- Used **Advanced Excel, VLOOKUP, PivotTables, and conditional logic** for data validation and reporting.
+- Prepared recurring reports and performed data-quality checks to identify discrepancies.
+- Collaborated with cross-functional stakeholders to resolve data issues and support business operations.
 
 ---
 
-<h3>📌 Retail Sales Customer Analytics</h3>
+## 📊 Featured Projects
 
-**Tech Stack:** Python • SQL • Power BI • Pandas
+### 🛒 Retail Sales & Customer Analytics
 
-- Analyzed retail sales and customer behavior using Python and SQL.
-- Developed an interactive Power BI dashboard to visualize KPIs and business trends.
-- Delivered insights into customer segmentation, sales performance, and profitability.
+**Tech Stack:** Python | SQL | Power BI | DAX | Excel
 
-🔗 **GitHub Repository:**  
-https://github.com/nagulabhavana28-lab/Retail-sales-customer-analytics
+- Built an end-to-end ETL and analytics pipeline using **SQL, Python, and Power BI**.
+- Processed and analyzed **534,000+ transactional records**.
+- Applied **RFM customer segmentation** to identify high-value customer groups.
+- Implemented **Holt-Winters forecasting** for 3-month sales projections.
+- Developed an interactive Power BI dashboard covering sales performance and customer behavior.
+
+🔗 **[View Project on GitHub](https://github.com/nagulabhavana28-lab)**
 
 ---
+
+### 💬 Customer Feedback Analysis
+
+**Tech Stack:** Python | Pandas | NumPy | Matplotlib | SciPy | Google Gemini AI
+
+- Cleaned and analyzed customer feedback data using Python.
+- Performed exploratory data analysis to identify customer feedback patterns.
+- Identified critical reviews and common complaint keywords.
+- Created visualizations to communicate customer feedback trends.
+- Integrated **Google Gemini AI** to generate personalized customer support responses.
+
+🔗 **[View Project on GitHub](https://github.com/nagulabhavana28-lab)**
+
 ---
 
+## 🎓 Education & Certifications
 
-<h2>🤝 Connect With Me</h2>
+### 🎓 B.Tech — Information Technology
 
-<p align="left">
+**Malla Reddy Institute of Engineering and Technology**  
+Hyderabad | 2020 – 2024
+
+### 📜 Certifications
+
+- **Post Graduate Certification in Data Science and Analytics** — Imarticus Learning
+- **Microsoft Excel** — Udemy
+- **Statistics for Data Science and Analytics** — Udemy
+
+---
+
+## 📈 What I Bring
+
+| Area | Skills |
+|---|---|
+| 📊 Data Analysis | Python, SQL, Excel, Pandas, NumPy |
+| 📈 Visualization | Power BI, Matplotlib, Excel |
+| 🗄️ Data | ETL, Data Cleaning, Data Modeling, Data Warehousing |
+| 📋 Reporting | KPI Reporting, Dashboards, Business Insights |
+| 🤖 AI | Generative AI, Forecasting, Machine Learning |
+| 💡 Strengths | Problem Solving, Analytical Thinking, Communication |
+
+---
+
+## 📚 Currently Learning
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/📚%20Data%20Science-In%20Progress-6C63FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🤖%20AI-Exploring-8E44AD?style=for-the-badge" />
+<img src="https://img.shields.io/badge/📊%20Advanced%20Analytics-Learning-00897B?style=for-the-badge" />
+
+</p>
+
+I'm continuously improving my skills in **Data Science, AI, advanced analytics, and business intelligence** to stay aligned with current industry trends.
+
+---
+
+## 🎯 Career Focus
+
+I'm currently looking for opportunities where I can contribute as a:
+
+**Data Analyst | Business Analyst | Data Science Associate | Analytics Analyst**
+
+I'm particularly interested in roles involving **data-driven decision-making, business intelligence, reporting, visualization, and analytics**.
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
 
 <a href="https://www.linkedin.com/in/bhavana2802/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Bhavana%20Nagula-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/nagulabhavana28-lab">
+<img src="https://img.shields.io/badge/GitHub-nagulabhavana28--lab-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="mailto:nagulabhavana28@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </p>
 
 ---
 
-<p align="center">
+<div align="center">
 
-⭐ Thanks for visiting my profile!
+### 💡 "Turning data into insights, one analysis at a time."
 
-</p>
+⭐ **Thanks for visiting my profile!**
+
+</div>
