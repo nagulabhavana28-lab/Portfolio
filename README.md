@@ -9,7 +9,7 @@
 📧 <a href="mailto:nagulabhavana28@gmail.com">nagulabhavana28@gmail.com</a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=700&lines=Data+Analyst;Python+%7C+SQL+%7C+Excel+%7C+Power+BI;Turning+Data+into+Actionable+Insights;Always+Learning+%26+Building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=2F80ED&center=true&vCenter=true&width=900&lines=Data+Analyst;Python+%7C+SQL+%7C+Advanced+Excel;Power+BI+%7C+DAX+%7C+Power+Query;ETL+%7C+Data+Cleaning+%7C+Data+Modeling;Data+Visualization+%7C+Statistical+Analysis;Databricks+%7C+PySpark+%7C+Tableau;Tableau+Server+%7C+Forecasting+%7C+Machine+Learning;Generative+AI+%7C+Advanced+Analytics;Turning+Data+into+Actionable+Insights" alt="Typing SVG" />
 
 <p>
   <a href="https://www.linkedin.com/in/bhavana2802/">
@@ -54,6 +54,8 @@ I'm currently strengthening my skills through a **Post Graduate Certification in
 <p>
 <img src="https://img.shields.io/badge/Power%20BI-Dashboards-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 <img src="https://img.shields.io/badge/Excel-Analytics-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/Tableau-Visualization-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+<img src="https://img.shields.io/badge/Tableau%20Server-BI%20Platform-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
 </p>
 
 ### 🔬 Python Libraries
@@ -62,24 +64,35 @@ I'm currently strengthening my skills through a **Post Graduate Certification in
 <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-Numerical%20Analysis-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Matplotlib-Visualization-11557C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Seaborn-Statistical%20Visualization-4C72B0?style=for-the-badge" />
 <img src="https://img.shields.io/badge/SciPy-Scientific%20Computing-8CAAE6?style=for-the-badge" />
 </p>
 
-### 🗄️ Data & Analytics
+### 🗄️ Data Engineering & Analytics
 
 <p>
 <img src="https://img.shields.io/badge/ETL-Data%20Pipelines-6A1B9A?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Data%20Cleaning-Quality-455A64?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Data%20Cleaning-Data%20Quality-455A64?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Data%20Modeling-Analytics-00897B?style=for-the-badge" />
-<img src="https://img.shields.io/badge/EDA-Exploratory%20Analysis-3949AB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Data%20Warehousing-Data%20Architecture-3949AB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Databricks-Data%20Platform-EF3E2F?style=for-the-badge&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/PySpark-Big%20Data-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
 </p>
 
-### 🤖 AI & Advanced Analytics
+### 📈 Analytics & Statistics
 
 <p>
-<img src="https://img.shields.io/badge/Generative%20AI-Exploration-8E44AD?style=for-the-badge" />
+<img src="https://img.shields.io/badge/EDA-Exploratory%20Analysis-3949AB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Statistical%20Analysis-Statistics-5C6BC0?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Forecasting-Time%20Series-FF7043?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Machine%20Learning-Analytics-1565C0?style=for-the-badge" />
+</p>
+
+### 🤖 AI
+
+<p>
+<img src="https://img.shields.io/badge/Generative%20AI-Analytics-8E44AD?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Agentic%20AI-Exploration-6A1B9A?style=for-the-badge" />
 </p>
 
 ### 🔧 Tools
@@ -156,8 +169,9 @@ Hyderabad | 2020 – 2024
 | Area | Skills |
 |---|---|
 | 📊 Data Analysis | Python, SQL, Excel, Pandas, NumPy |
-| 📈 Visualization | Power BI, Matplotlib, Excel |
+| 📈 Visualization | Power BI, Tableau, Tableau Server, Matplotlib |
 | 🗄️ Data | ETL, Data Cleaning, Data Modeling, Data Warehousing |
+| ⚡ Big Data | Databricks, PySpark |
 | 📋 Reporting | KPI Reporting, Dashboards, Business Insights |
 | 🤖 AI | Generative AI, Forecasting, Machine Learning |
 | 💡 Strengths | Problem Solving, Analytical Thinking, Communication |
@@ -192,16 +206,16 @@ I'm particularly interested in roles involving **data-driven decision-making, bu
 
 <p align="center">
 
+<a href="mailto:nagulabhavana28@gmail.com">
+<img src="https://img.shields.io/badge/Email-nagulabhavana28%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 <a href="https://www.linkedin.com/in/bhavana2802/">
 <img src="https://img.shields.io/badge/LinkedIn-Bhavana%20Nagula-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://github.com/nagulabhavana28-lab">
 <img src="https://img.shields.io/badge/GitHub-nagulabhavana28--lab-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="mailto:nagulabhavana28@gmail.com">
-<img src="https://img.shields.io/badge/Email-nagulabhavana28%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </p>
